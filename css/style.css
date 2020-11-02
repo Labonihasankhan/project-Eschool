@@ -224,19 +224,23 @@ footer{
 }
 footer p{
     color: white;
-    font-size: 16px;
+    font-size: 18px;
+
 }
 footer ul{}
-footer ul li{}
+footer ul li{
+	margin-left: 150px;
+}
 footer ul li strong{
     color: white;
     font-size: 20px;
+    letter-spacing: 1;
 }
 footer ul li a{
     display: block;
     color: white;
     font-size: 16px;
-    padding: 3px 0px;
+    padding: 5px 0px;
 }
 footer ul li a:hover{}
 
